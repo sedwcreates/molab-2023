@@ -1,7 +1,7 @@
 # molab-2023 15-Sophia-Edwards-sedwcreates
 
 Assignments for Mobile App Development F23
-- Week O1:
+- Week 01: [https://github.com/sedwcreates/molab-2023/tree/main/Week01](url)
 - Week 02: 
 
 # 2023-09-13 22:42:15
