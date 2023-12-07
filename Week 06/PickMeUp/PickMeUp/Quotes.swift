@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 
-var quotes = ["People come for me all the time they just don’t find me - Karen Huger", "Why be so nasty and so rude when I can be so fierce and so successful? - Nene Leakes", "Don’t check for me unless you have a check for me - Kandi Burruss", "Who ‘got check me boo ?! - Shereé Whitfield", "Unique, that’s what you are - Beyoncé", "All these bitches is my sons - Nicki Minaj", "It ain’t that deep, either way - Kelela", "On I go - Fiona Apple", "It’s a wrap - Mariah Carey"]
+var quotes = ["People come for me all the time they just don’t find me - Karen Huger", "Why be so nasty and so rude when I can be so fierce and so successful? - Nene Leakes", "Don’t check for me unless you have a check for me - Kandi Burruss", "Who ‘gon check me boo ?! - Shereé Whitfield", "Unique, that’s what you are - Beyoncé", "All these bitches is my sons - Nicki Minaj", "It ain’t that deep, either way - Kelela", "On I go - Fiona Apple", "It’s a wrap - Mariah Carey"]
 
 struct QuoteView: View {
     var randomQuote : String
